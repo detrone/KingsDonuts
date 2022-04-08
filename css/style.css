@@ -315,7 +315,11 @@ iframe {
 }
 
 .colorfullPanel:hover {
-  background-color: #000;
+  filter: grayscale(100%);
+}
+
+#freshly {
+    background-image: url(img/photos/seasonaldonuts.jpg);    
 }
 
 
