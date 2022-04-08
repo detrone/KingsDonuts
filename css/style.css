@@ -159,10 +159,6 @@ iframe {
     font-size: 22px;
 }
 
-
-.owl-item.active .slide-content h2, 
-.owl-item.active .slide-content h3, 
-.owl-item.active .slide-content p
 {
   visibility: visible;
   animation-duration: 2s;
