@@ -153,6 +153,10 @@ iframe {
     margin-bottom: 20px;
 }
 
+#biglogo {
+    width: 1000px;
+}
+
 .slide-content h3{
     font-family: 'Roboto';
     margin-bottom: 20px;
