@@ -315,7 +315,9 @@ iframe {
 }
 
 .colorfullPanel:hover {
-  filter: grayscale(100%);
+  transform: scale(1.08);
+  animation: wob .5s linear infinite;
+  transition: 0.5s;
 }
 
 #freshly {
