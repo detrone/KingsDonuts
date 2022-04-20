@@ -419,6 +419,7 @@ section#section2 .shapes p{
 .imgback {
   background-image: url(../img/shape/backgroundshape.png);
   /* max-width: 100%; */
+  max-height: 25%;
   padding-right: 35px;
   background-repeat: no-repeat;
   display: block;
