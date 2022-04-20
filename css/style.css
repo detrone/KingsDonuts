@@ -346,7 +346,7 @@ section#section2 {
 section#section2 .maintext span{
   margin-top: 90px;
   font-weight: 800;
-  color: #f9b000;
+  color: #ebbc3b;
   line-height: 1.7;
   letter-spacing: 6px;
   text-transform: uppercase;
@@ -404,7 +404,7 @@ section#section2 .shapes p{
 .section-title h3{
   margin-top: 90px;
   font-weight: 800;
-  color: #f9b000;
+  color: #ebbc3b;
   line-height: 1.7;
   letter-spacing: 6px;
   text-transform: uppercase;
@@ -721,7 +721,7 @@ div#news-slider .owl-next {
 
   margin-top: 20px;
   font-weight: 800;
-  color: #f9b000;
+  color: #ebbc3b;
   line-height: 1.7;
   letter-spacing: 6px;
   text-transform: uppercase;
@@ -786,7 +786,7 @@ div#news-slider .owl-next {
 .testimonial-content  h4{
 
   font-weight: 800;
-  color: #f9b000;
+  color: #ebbc3b;
   line-height: 1.7;
   text-transform: uppercase;
   text-align: center;
@@ -800,7 +800,7 @@ div#news-slider .owl-next {
   text-transform: uppercase;
   text-align: center;
   display: inline-block;
-  background: #f9b000;
+  background: #ebbc3b;
   padding-left: 10px;
   padding-right: 10px;
 }
