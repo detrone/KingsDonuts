@@ -953,6 +953,15 @@ div#news-slider .owl-next {
   text-align: left;
 }
 
+.blog-section-description a{
+  color: rgb(51, 51, 51);
+  text-decoration: none;
+}
+
+.blog-section-description a:hover {
+   color: #ebbc3b;
+}
+
 /*
 * ==========================================
 * BLOG SECTION END
@@ -1564,7 +1573,7 @@ li.address-section .fa{
  color: white; 
 }
 
-.social:hover {
+.socials:hover {
   color: #ebbc3b;    
 }
 
