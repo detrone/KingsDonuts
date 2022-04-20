@@ -812,6 +812,7 @@ div#news-slider .owl-next {
   left: 40%;
   text-transform: uppercase;
   color: #ffffff70;
+  display: none;
 }
 
 .testimonial-area .owl-next  {
@@ -820,6 +821,7 @@ div#news-slider .owl-next {
   right: 40%;
   text-transform: uppercase;
   color: #ffffff70;
+  display: none;
 }
 
 
