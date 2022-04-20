@@ -831,8 +831,8 @@ div#news-slider .owl-next {
 */
 .banner {
     color: white;
-    padding-bottom: 0px;
-    padding-top: 0px;
+    padding-bottom: 45px;
+    padding-top: 45px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -843,7 +843,7 @@ div#news-slider .owl-next {
   font-size: 15px;
   font-family: "Roboto";
   color: rgb(119, 119, 119);
-  line-height: 2.4;
+  line-height: 100;
   text-align: center;
   font-weight: bold;
   letter-spacing: 1px;
