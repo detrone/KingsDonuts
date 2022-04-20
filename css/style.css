@@ -682,7 +682,7 @@ div#news-slider .owl-next {
   content: "";
   left: 0;
   bottom: 0px;
-  background: #f9b000;
+  background: white;
   height: 1px;
   width: 0;
   transition: 0.3s;
@@ -691,7 +691,7 @@ div#news-slider .owl-next {
 .navBar li>.nav-link:hover::before,
 .navBar li>.nav-link.active::before {
   width: 100%;
-  background: #f9b000;
+  background: white;
 
 }
 
