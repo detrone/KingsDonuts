@@ -1557,6 +1557,10 @@ li.address-section .fa{
   color: rgb(248, 176, 0);
 }
 
+.socials{
+ text-decoration: none;   
+ color: white; 
+}
 
 #map {
   width: 100%;
