@@ -837,6 +837,7 @@ div#news-slider .owl-next {
     background-position: center;
     background-repeat: no-repeat;
     margin-top: -100px;
+    height: 100%;
     
 }
 
