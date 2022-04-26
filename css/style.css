@@ -276,7 +276,8 @@ iframe {
 
 
 .topOff{
-  padding-top: 50px;
+  padding-top: 0px;
+  padding-bottom: 150px;
 }
 
 .colorfullPanel{
@@ -339,8 +340,8 @@ iframe {
 * ==========================================
 */
 section#section2 {
-  padding-top: 65px;
-  padding-bottom: 150px;
+  padding-top: 15px;
+  padding-bottom: 50px;
 }
 
 section#section2 .maintext span{
