@@ -22,8 +22,9 @@ Author URI: https://cemreworks.com
 .Fresh{
   position: relative;
   font-family: 'Poppins';
-  padding: 10%;
+  padding: 10px;
   padding-top: -100px;
+  padding-bottom: -100px;
 
 }
 
