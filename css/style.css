@@ -347,7 +347,7 @@ section#section2 {
 section#section2 .maintext span{
   margin-top: 90px;
   font-weight: 800;
-  font-size: 35px;
+  font-size: 70px;
   color: #ebbc3b;
   line-height: 1.7;
   letter-spacing: 6px;
@@ -369,7 +369,7 @@ section#section2 .maintext h2 {
 section#section2 .maintext p {
 
   font-family: "Roboto";
-  font-size: 14px;
+  font-size: 30px;
   line-height: 1.7;
   color: #666666;
   margin: 0px;
