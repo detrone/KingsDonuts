@@ -8,7 +8,7 @@ Author URI: https://cemreworks.com
 * ==========================================
 * GENERAL AND HEADER START
 * ==========================================
-*/
+*/f
 
 
 .fixedArea {
@@ -22,7 +22,7 @@ Author URI: https://cemreworks.com
 .Fresh{
   position: relative;
   font-family: 'Poppins';
-  padding: 10px;
+  padding: 10%;
   padding-top: -100px;
 
 }
