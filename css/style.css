@@ -8,8 +8,7 @@ Author URI: https://cemreworks.com
 * ==========================================
 * GENERAL AND HEADER START
 * ==========================================
-*/f
-
+*/
 
 .fixedArea {
     position: fixed;
@@ -854,6 +853,7 @@ div#news-slider .owl-next {
     background-position: center;
     background-repeat: no-repeat;
     margin-top: -100px;
+    margin-bottom: -100px;
     height: 100%;
     
 }
