@@ -19,6 +19,13 @@ Author URI: https://cemreworks.com
     padding-left: 10px;
     width: 100%;
 }
+.Fresh{
+  position: relative;
+  font-family: 'Poppins';
+  padding: 10px;
+  padding-top: -100px;
+
+}
 
 
 .noPadding{
